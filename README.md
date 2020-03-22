@@ -1,2 +1,2 @@
 # sqlalchemy-challenge
-Climate Analysis using QLAlchemy ORM queries, Pandas, and Matplotlib.
+Climate Analysis using SQLAlchemy ORM queries, Pandas, and Matplotlib.
